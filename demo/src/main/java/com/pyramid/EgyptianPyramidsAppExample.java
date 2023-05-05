@@ -46,7 +46,7 @@ public class EgyptianPyramidsAppExample {
       System.out.println("..........................................................");
       System.out.print("Enter a command: ");
       command  = scanner.nextLine();
-
+/a
       switch (command) {
         case "1":
           listpharaoh();
