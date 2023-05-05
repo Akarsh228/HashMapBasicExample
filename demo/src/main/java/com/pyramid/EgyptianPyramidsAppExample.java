@@ -54,7 +54,7 @@ public class EgyptianPyramidsAppExample {
         case "2":
           int idToLook = scanner.nextInt();
           System.out.println("Name: " + pharoahs.get(idToLook));
-          
+          l
          
           break;
         case "3":
